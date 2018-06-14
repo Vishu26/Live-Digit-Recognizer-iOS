@@ -1,3 +1,3 @@
 # Live-Digit-Recognizer-iOS
 
-![alt-text-1](result.png) ![alt-text-2](live.gif)
+<img src="result.png" width="148" height="302"> <img src="live.gif" width="148" height="302">
